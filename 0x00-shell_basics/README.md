@@ -1,3 +1,4 @@
 print current working directory
 list current directory
 change directory
+list content in directory in long format
