@@ -3,3 +3,4 @@ who am i
 groups
 change ownership
 creat empty file
+make executable
