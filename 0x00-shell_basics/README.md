@@ -8,3 +8,4 @@ create directory into tmp
 move betty to tmp/my first directory
 remove betty
 bye my first directory
+previous directory
