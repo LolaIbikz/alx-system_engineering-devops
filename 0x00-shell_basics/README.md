@@ -11,3 +11,4 @@ bye my first directory
 previous directory
 list file with characters
 iamafile
+symbolic link
