@@ -7,3 +7,4 @@ list files in long format with user and groups displayed
 create directory into tmp
 move betty to tmp/my first directory
 remove betty
+bye my first directory
