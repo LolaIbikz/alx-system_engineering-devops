@@ -9,3 +9,4 @@ move betty to tmp/my first directory
 remove betty
 bye my first directory
 previous directory
+list file with characters
