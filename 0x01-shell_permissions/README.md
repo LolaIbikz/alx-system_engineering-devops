@@ -8,3 +8,4 @@ multiple permissions
 execution everybody
 007
 set mode
+mirror permissions
