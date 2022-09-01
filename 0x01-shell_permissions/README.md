@@ -4,3 +4,4 @@ groups
 change ownership
 creat empty file
 make executable
+multiple permissions
