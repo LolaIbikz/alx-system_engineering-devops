@@ -10,3 +10,4 @@ execution everybody
 set mode
 mirror permissions
 directory permission
+new directory with permission
