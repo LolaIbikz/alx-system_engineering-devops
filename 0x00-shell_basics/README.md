@@ -13,3 +13,5 @@ list file with characters
 iamafile
 symbolic link
 html file
+
+switch user betty
