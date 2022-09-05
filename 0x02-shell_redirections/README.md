@@ -11,3 +11,4 @@ duplicate last line
 delete .js
 hidden directories
 newest file
+unique
