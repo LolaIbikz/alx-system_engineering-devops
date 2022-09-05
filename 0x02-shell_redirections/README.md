@@ -19,3 +19,4 @@ hide the word
 letter only
 Az
 hiago
+reverse
