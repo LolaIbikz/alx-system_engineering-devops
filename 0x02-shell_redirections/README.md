@@ -8,3 +8,6 @@ display 3rd line
 file
 CWD FILE
 duplicate last line
+delete .js
+hidden directories
+
