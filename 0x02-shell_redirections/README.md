@@ -3,3 +3,5 @@ confused smiley
 display file
 display two files
 last ten lines
+first ten lines
+
