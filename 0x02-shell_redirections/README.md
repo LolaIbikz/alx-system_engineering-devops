@@ -13,3 +13,5 @@ hidden directories
 newest file
 unique
 FIND THE MISSING WORD
+count that word
+
