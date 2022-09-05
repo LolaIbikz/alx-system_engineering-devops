@@ -15,3 +15,4 @@ unique
 FIND THE MISSING WORD
 count that word
 whats next
+hide the word
