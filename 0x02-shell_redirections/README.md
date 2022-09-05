@@ -4,4 +4,5 @@ display file
 display two files
 last ten lines
 first ten lines
-
+display 3rd line
+file
