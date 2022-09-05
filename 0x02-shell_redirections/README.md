@@ -17,3 +17,5 @@ count that word
 whats next
 hide the word
 letter only
+Az
+
