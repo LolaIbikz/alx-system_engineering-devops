@@ -7,3 +7,4 @@ first ten lines
 display 3rd line
 file
 CWD FILE
+duplicate last line
