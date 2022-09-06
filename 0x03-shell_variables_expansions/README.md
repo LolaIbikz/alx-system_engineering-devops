@@ -14,3 +14,4 @@ combinations
 print float
 decimal and hexadecimal
 rot 13
+odd
