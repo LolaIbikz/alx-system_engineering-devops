@@ -7,3 +7,4 @@ lists all local variables and environment variables, and functions.
 create a local varaible
 create global variable
 true knowledge
+divide and rule
