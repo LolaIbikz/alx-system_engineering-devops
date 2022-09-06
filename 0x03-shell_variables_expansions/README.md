@@ -10,3 +10,4 @@ true knowledge
 divide and rule
 love exponent breath
 binary to decimal
+combinations
