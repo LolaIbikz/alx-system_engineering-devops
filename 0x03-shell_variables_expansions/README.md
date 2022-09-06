@@ -12,3 +12,4 @@ love exponent breath
 binary to decimal
 combinations
 print float
+decimal and hexadecimal
