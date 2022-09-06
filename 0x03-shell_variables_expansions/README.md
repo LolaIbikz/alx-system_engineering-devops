@@ -11,3 +11,4 @@ divide and rule
 love exponent breath
 binary to decimal
 combinations
+print float
