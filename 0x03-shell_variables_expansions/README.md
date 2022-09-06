@@ -8,3 +8,4 @@ create a local varaible
 create global variable
 true knowledge
 divide and rule
+love exponent breath
