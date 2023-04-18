@@ -1,4 +1,4 @@
--- Create user holberton and give access to primary/replica status of the database
+-- Create user holberton and give access to primary/replica status of the database
 CREATE USER
  IF NOT EXISTS 'holberton_user'@'localhost' 
  IDENTIFIED BY 'projectcorrection280hbtn';
