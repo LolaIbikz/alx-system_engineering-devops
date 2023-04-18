@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bash
 #Steps to establish replication process between servers
 replica_server_ip=3.227.3.18
 source_server_ip=3.235.21.36 
