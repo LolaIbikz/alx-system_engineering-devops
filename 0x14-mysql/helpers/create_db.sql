@@ -1,4 +1,4 @@
--- Create database named tyrell_corp
+-- Create database named tyrell_corp
 -- Create table nexus6 containing at least one entry
 CREATE DATABASE
     IF NOT EXISTS `tyrell_corp`;
