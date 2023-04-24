@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash
 #install mysql 5.7.19
 sudo apt update
 sudo apt install wget -y
